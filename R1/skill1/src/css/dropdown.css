@@ -1,0 +1,43 @@
+.dropdown-wrapper{
+    height:400px;
+    width:600px;
+    background-color: #7bd7e2;;
+    margin-top: 7rem;
+    margin-left: 21rem;
+    font-size: x-large;
+    position: relative;
+}
+h3{
+    position: absolute;
+    top:48px;
+    left:148px;
+}
+form{
+    position: absolute;
+    top:125px;
+    left:148px;
+    
+
+}
+select{
+    height: 50px;
+    width:200px;
+    background-color: #FFFFFF;
+    text-align: center;
+    color: gray;
+    font-size: large;
+}
+.list{
+    list-style: none;
+    height:120px;
+    width:250px;
+    background-color:#FFFFFF ;
+    position: absolute;
+    left:3px;
+    top:30px;
+    }
+li{
+    text-align: center;
+    color:gray;
+    font-size: x-large;
+}
